@@ -6,7 +6,7 @@
 dengan memasukkan input jari-jari dan banyak roda itu berputar, 
 nanti mengeluarkan output jarak yang ditempuh roda itu,
 saya juga membuat supaya bisa memilih untuk menginput apa saja,
-maksudnya anda bida menginputkan jarak dan banyaknya berputar
+maksudnya anda bisa menginputkan jarak dan banyaknya berputar
 atau yang lain sesuai pilihan yang ada*/
 
 #include <stdio.h>
